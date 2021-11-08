@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="FiguresTests">
+    <test name="rect">
+        <classes>
+            <class name="com.demo.test.TestRectangle"/>
+        </classes>
+    </test>
+
+<!--    <test name="api">-->
+<!--        <classes>-->
+<!--            <class name="com.demo.test.TestRest"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+
+<!--    <test name="square">-->
+<!--        <classes>-->
+<!--            <class name="com.test.demo.TestSquare"/>-->
+<!--        </classes>-->
+<!--    </test>-->
+</suite>
